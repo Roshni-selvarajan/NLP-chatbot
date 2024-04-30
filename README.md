@@ -1,6 +1,7 @@
 ## NLP Chatbot Project
 
 ### Overview
+<img src="https://images.ctfassets.net/ukazlt65o6hl/1rWCLaP3w1iMUSkZsg9dG4/ab39b7646762b37b2296c07ae08182ff/MicrosoftTeams-image__55_.png?w=1366&h=704&q=70&fm=webp" width='800'>
 This project demonstrates the implementation of a conversational chatbot using Natural Language Processing (NLP) techniques in Python. The chatbot is capable of understanding user queries and providing appropriate responses by leveraging machine learning models for text similarity.
 
 ### Key Features
